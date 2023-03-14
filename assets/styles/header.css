@@ -36,10 +36,6 @@ header {
 .logo-container > h1 {
   font-weight: 800;
   font-size: 24px;
-  max-width: contain;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 #download-button:active {
